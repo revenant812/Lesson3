@@ -1,0 +1,13 @@
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.exe
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.deps.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.runtimeconfig.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.dll
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\bin\Debug\netcoreapp3.1\Lesson3Work5.pdb
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.AssemblyInfo.cs
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.dll
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.pdb
+C:\Users\Дима\Desktop\LocalRepo\Lesson3\5\Lesson3Work5\Lesson3Work5\obj\Debug\netcoreapp3.1\Lesson3Work5.genruntimeconfig.cache
